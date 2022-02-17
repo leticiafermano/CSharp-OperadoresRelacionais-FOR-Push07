@@ -29,7 +29,7 @@ namespace LogicaDeProgramacao_P4_FOR
             for (int i = 1; i <= 10; i++)
                 // i = inicio; i<= repetição; i++ = necessário para que o loop tenha um ponto de parada.
                 Console.WriteLine(i);
-
+            
         }
     }
 }
